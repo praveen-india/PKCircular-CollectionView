@@ -12,7 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("I am goint to implement Circular collection view")
+        
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 

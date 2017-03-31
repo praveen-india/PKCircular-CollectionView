@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E137468D1E87A265009A6DA4 /* PKCircularLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = E137468C1E87A265009A6DA4 /* PKCircularLayout.swift */; };
 		E1B5396D1E81B35B0024B1A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B5396C1E81B35B0024B1A0 /* AppDelegate.swift */; };
 		E1B5396F1E81B35B0024B1A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B5396E1E81B35B0024B1A0 /* ViewController.swift */; };
 		E1B539721E81B35B0024B1A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1B539701E81B35B0024B1A0 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E137468C1E87A265009A6DA4 /* PKCircularLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PKCircularLayout.swift; sourceTree = "<group>"; };
 		E1B539691E81B35B0024B1A0 /* PKCircular-CollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PKCircular-CollectionView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1B5396C1E81B35B0024B1A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E1B5396E1E81B35B0024B1A0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				E1B5396C1E81B35B0024B1A0 /* AppDelegate.swift */,
 				E1B5396E1E81B35B0024B1A0 /* ViewController.swift */,
+				E137468C1E87A265009A6DA4 /* PKCircularLayout.swift */,
 				E1B539701E81B35B0024B1A0 /* Main.storyboard */,
 				E1B539731E81B35B0024B1A0 /* Assets.xcassets */,
 				E1B539751E81B35B0024B1A0 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				E1B5396F1E81B35B0024B1A0 /* ViewController.swift in Sources */,
 				E1B5396D1E81B35B0024B1A0 /* AppDelegate.swift in Sources */,
+				E137468D1E87A265009A6DA4 /* PKCircularLayout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +303,7 @@
 				E1B5397D1E81B35B0024B1A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
